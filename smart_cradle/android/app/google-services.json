@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "556209749241",
+    "firebase_url": "https://smart-craddle.firebaseio.com",
+    "project_id": "smart-craddle",
+    "storage_bucket": "smart-craddle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556209749241:android:be0d412ef2e22f8de13628",
+        "android_client_info": {
+          "package_name": "com.example.smart_cradle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556209749241-e490bt6i67retdngt4oufu7vvvtlc44s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDraIxQBFF3FCS9a5IFyFUCaBQJP7Idh4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556209749241-e490bt6i67retdngt4oufu7vvvtlc44s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
